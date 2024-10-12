@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lateef-machi
-- 👀 I’m interested in ...web design
+- 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...diploma in information technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
